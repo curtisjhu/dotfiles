@@ -16,3 +16,6 @@
 - Beautify (https://github.com/zeekay/vim-beautify)
 - Nerd tree highlighting (https://github.com/tiagofumo/vim-nerdtree-syntax-highlight)
 - tmux (https://github.com/tmux/tmux/wiki)
+- fuzzy finder (https://github.com/junegunn/fzf)
+- Start screen (https://github.com/mhinz/vim-startify)
+- copy into system clipboard(https://github.com/christoomey/vim-system-copy)
