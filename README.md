@@ -20,6 +20,8 @@ Plug 'vim-airline/vim-airline'
 Plug 'zeekay/vim-beautify'
 Plug 'preservim/nerdtree'
 Plug 'tomasiser/vim-code-dark'
+Plug 'vim-syntastic/syntastic'
+Plug 'mhinz/vim-startify'
 ```
 
 ### MVIM
