@@ -1,5 +1,5 @@
 ### Plugin Managers
-- [Vundle](https://github.com/VundleVim/Vundle.vim)
+- [vundle](https://github.com/VundleVim/Vundle.vim)
 - [vim-plug](https://github.com/junegunn/vim-plug/) (I recommend)
 
 ### Plugins I want to try
