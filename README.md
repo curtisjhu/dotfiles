@@ -2,10 +2,17 @@
 I like a minimalistic vim. It's great for competitive programming. For actual development, I prefer VSCode.
 
 ### Color Scheme
-[dracula theme](https://draculatheme.com/)
+- [Dracula](https://draculatheme.com/) (my preferred)
+- [Dark+ VSCode](https://github.com/tomasiser/vim-code-dark)
+- [Atome One Dark](https://github.com/joshdick/onedark.vim)
 
 ### Plugins
+- [coc-pairs](https://github.com/neoclide/coc-pairs)
+- 
+```
+Plug 'neoclide/coc-pairs'
 
+```
 
 ### MVIM
 MacVim GUI
