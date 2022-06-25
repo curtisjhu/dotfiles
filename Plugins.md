@@ -14,5 +14,5 @@
 - Linting and syntax errors (https://vimawesome.com/plugin/ale)
 - Testing (https://github.com/vim-test/vim-test)
 - Beautify (https://github.com/zeekay/vim-beautify)
-
+- Nerd tree highlighting (https://github.com/tiagofumo/vim-nerdtree-syntax-highlight)
 - tmux (https://github.com/tmux/tmux/wiki)
