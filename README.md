@@ -2,8 +2,8 @@
 I like a minimalistic vim. It's great for competitive programming. For actual development, I prefer VSCode.
 
 ### Color Scheme
-- [Dracula](https://draculatheme.com/) (my preferred)
-- [Dark+ VSCode](https://github.com/tomasiser/vim-code-dark)
+- [Dracula](https://draculatheme.com/)
+- [Dark+ VSCode](https://github.com/tomasiser/vim-code-dark) (my preferred)
 - [Atome One Dark](https://github.com/joshdick/onedark.vim)
 
 ### Plugins
