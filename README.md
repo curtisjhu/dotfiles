@@ -1,5 +1,6 @@
 # My gVim Configuration
 I like a minimalistic macvim. It's great for competitive programming. For actual development, I prefer VSCode.
+https://learnbyexample.gitbooks.io/vim-reference/content/
 
 ### Color Scheme
 - [Dracula](https://draculatheme.com/)
