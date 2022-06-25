@@ -1,9 +1,11 @@
 # My Vim Configuration
+I like a minimalistic vim. It's great for competitive programming. For actual development, I prefer VSCode.
 
 ### Color Scheme
 [dracula theme](https://draculatheme.com/)
 
 ### Plugins
+
 
 ### MVIM
 MacVim GUI
