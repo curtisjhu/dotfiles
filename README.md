@@ -34,5 +34,6 @@ sudo make install
 ```
 
 
-inspiration
+Inspiration
 - https://github.com/wolandark/wim/blob/main/.vimrc
+- https://github.com/fbeeper/fMacVim/blob/master/vimrc
