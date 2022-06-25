@@ -2,7 +2,8 @@
 - [Vundle](https://github.com/VundleVim/Vundle.vim)
 - [vim-plug](https://github.com/junegunn/vim-plug/) (I recommend)
 
-### [Plugins I want to try] (https://vimawesome.com/)
+### Plugins I want to try
+(https://vimawesome.com/)
 - minimalistic and distraction free (https://github.com/junegunn/goyo.vim)
 - VSCode-like tree structure (https://github.com/preservim/nerdtree)
 - Shorthand notation for web development (https://github.com/mattn/emmet-vim)
