@@ -1,5 +1,5 @@
-# My Vim Configuration
-I like a minimalistic vim. It's great for competitive programming. For actual development, I prefer VSCode.
+# My gVim Configuration
+I like a minimalistic macvim. It's great for competitive programming. For actual development, I prefer VSCode.
 
 ### Color Scheme
 - [Dracula](https://draculatheme.com/)
