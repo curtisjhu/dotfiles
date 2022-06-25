@@ -8,10 +8,18 @@ I like a minimalistic vim. It's great for competitive programming. For actual de
 
 ### Plugins
 - [coc-pairs](https://github.com/neoclide/coc-pairs)
-- 
+- vim-test
+- vim-airline
+- vim-beautify
+- nerdtree
+- vim-code-dark
 ```
 Plug 'neoclide/coc-pairs'
-
+Plug 'vim-test/vim-test'
+Plug 'vim-airline/vim-airline'
+Plug 'zeekay/vim-beautify'
+Plug 'preservim/nerdtree'
+Plug 'tomasiser/vim-code-dark'
 ```
 
 ### MVIM
