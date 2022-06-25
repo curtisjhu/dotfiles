@@ -32,3 +32,7 @@ make distclean  # if you build Vim before
 make
 sudo make install
 ```
+
+
+inspiration
+- https://github.com/wolandark/wim/blob/main/.vimrc
