@@ -13,5 +13,6 @@
 - Code Completion (https://github.com/ycm-core/YouCompleteMe)
 - Linting and syntax errors (https://vimawesome.com/plugin/ale)
 - Testing (https://github.com/vim-test/vim-test)
+- Beautify (https://github.com/zeekay/vim-beautify)
 
 - tmux (https://github.com/tmux/tmux/wiki)
