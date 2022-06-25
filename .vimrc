@@ -1,7 +1,3 @@
-packadd! dracula
-syntax enable
-colorscheme dracula
-
 " Disable compatibility with vi which can cause unexpected issues.
 set nocompatible
 
@@ -61,8 +57,22 @@ set wildmode=list:longest
 " Wildmenu will ignore files with these extensions.
 set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 
-call plug#begin('.vim/plugged')
+" default goes to ~/.vim/plugged
+call plug#begin()
 
 Plug 'neoclide/coc-pairs'
+Plug 'vim-test/vim-test'
+Plug 'vim-airline/vim-airline'
+Plug 'zeekay/vim-beautify'
+Plug 'preservim/nerdtree'
+Plug 'tomasiser/vim-code-dark'
 
 call plug#end()
+
+colorscheme codedark
+let g:airline_theme = 'codedark'
+
+" everytime this file is saved, both get refreshed
+au! BufWritePost .vimrc so %
+au! BufWritePost .gvimrc so %
+
