@@ -1,6 +1,12 @@
 # My gVim Configuration
 I like a minimalistic macvim. It's great for competitive programming. For actual development, I prefer VSCode.
 https://learnbyexample.gitbooks.io/vim-reference/content/
+<br>
+Install vim-plug if you haven't already
+```
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
 
 ### Color Scheme
 - [Dracula](https://draculatheme.com/)
