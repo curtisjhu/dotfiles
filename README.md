@@ -48,3 +48,4 @@ sudo make install
 Inspiration
 - https://github.com/wolandark/wim/blob/main/.vimrc
 - https://github.com/fbeeper/fMacVim/blob/master/vimrc
+- https://github.com/benawad/dotfiles
