@@ -21,7 +21,7 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 - nerdtree
 - vim-code-dark
 ```
-Plug 'neoclide/coc-pairs'
+Plug 'neoclide/coc.nvim',{'branch':'release'}
 Plug 'vim-test/vim-test'
 Plug 'vim-airline/vim-airline'
 Plug 'zeekay/vim-beautify'
