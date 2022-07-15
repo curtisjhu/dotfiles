@@ -54,7 +54,7 @@ autocmd VimEnter * if len(filter(values(g:plugs), '!isdirectory(v:val.dir)'))
 " default goes to ~/.vim/plugged
 call plug#begin()
 
-Plug 'neoclide/coc-pairs'
+Plug 'neoclide/coc.nvm', {'branch': 'release'}
 Plug 'vim-test/vim-test'
 Plug 'vim-airline/vim-airline'
 Plug 'zeekay/vim-beautify'
