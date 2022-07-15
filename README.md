@@ -30,6 +30,9 @@ Plug 'tomasiser/vim-code-dark'
 Plug 'vim-syntastic/syntastic'
 Plug 'mhinz/vim-startify'
 ```
+```
+:CocInstall coc-pairs coc-prettier
+```
 
 ### MVIM
 MacVim GUI
