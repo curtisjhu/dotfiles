@@ -1,5 +1,5 @@
 # My gVim Configuration
-I like a minimalistic macvim. It's great for competitive programming. For actual development, I prefer VSCode.
+I like a minimalistic macvim. For actual development, I prefer VSCode.
 https://learnbyexample.gitbooks.io/vim-reference/content/
 <br>
 Install vim-plug if you haven't already
@@ -22,7 +22,6 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 - vim-code-dark
 ```
 Plug 'neoclide/coc.nvim',{'branch':'release'}
-Plug 'vim-test/vim-test'
 Plug 'vim-airline/vim-airline'
 Plug 'zeekay/vim-beautify'
 Plug 'preservim/nerdtree'
