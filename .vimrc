@@ -55,7 +55,6 @@ autocmd VimEnter * if len(filter(values(g:plugs), '!isdirectory(v:val.dir)'))
 call plug#begin()
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'vim-test/vim-test'
 Plug 'vim-airline/vim-airline'
 Plug 'zeekay/vim-beautify'
 Plug 'preservim/nerdtree'
