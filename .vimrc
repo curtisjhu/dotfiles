@@ -42,7 +42,7 @@ set wildignore=*.docx,*.jpg,*.png,*.gif,*.pdf,*.pyc,*.exe,*.flv,*.img,*.xlsx
 " allow backspace
 set backspace=indent,eol,start
 " allow mouse
-set mouse = a
+set mouse=a
 
 " Install vim-plug if not found
 if empty(glob('~/.vim/autoload/plug.vim'))
