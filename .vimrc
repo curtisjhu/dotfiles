@@ -71,6 +71,8 @@ let g:airline_theme = 'codedark'
 " Custom Mappings "
 let mapleader =";"
 map <leader>n :NERDTreeToggle <Cr>
+map <leader>nf :NERDTreeFocus <Cr>
+map <leader>nc :NERDTreeClose <Cr>
 map <leader>t :tabnew file <Cr>
 map <leader>tn :tabnext<Cr>
 map <leader>tp :tabprevious<Cr>
